@@ -13,4 +13,10 @@ Hello, my name is Ines Ferreira.<br>I am currently attending the last year of Co
 ![](https://github-readme-streak-stats.herokuapp.com/?user=inesferreira18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inesferreira18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=inesferreira18&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
+# 🌐 Visitors
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=inesferreira18&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
